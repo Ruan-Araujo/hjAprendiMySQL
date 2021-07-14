@@ -1,0 +1,18 @@
+Inner join serve para interligar e retornaar dados de 
+duas ou mais tabelas
+
+DER no emparelhamento de tabelas
+
+Os relacionamentos e a cardinalidade pode indicar 
+como devem ser feitos os joins.
+
+Inner join = dados relacionados - Intersecção entre os dois
+
+LEFT JOIN - DADOS RELACIONADOS + TABELA ESQUERDA - Conjunto B + intersecção
+
+RIGHT JOIN - DADOS RELACIONADOS + TABELA DIREITA - conjunto A + intersecção.
+
+USANDO MAIS DE UM JOIN
+
+ 
+
